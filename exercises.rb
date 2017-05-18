@@ -11,4 +11,19 @@ cities = {bangkok: 10045678, montreal: 3000000, lasvegas: 2000000}
 age = {angie: 23, sonya: 24, sonia: 30, ori: 20}
 
 
-puts movies[:iamlegend]
+# artist.each do |opinion|
+#   puts "i think #{opinion} is great"
+# end
+#
+# movies.each do |movie, release |
+#   puts "#{movie} came out in #{release}"
+# # end
+# cointoss.reverse
+# puts cointoss
+# puts ages.sort.reverse
+# movies["beauty and the beast"] = 1991, 2017
+# puts movies
+# puts cointoss.count("head")
+ # puts ages.select { |a| a < 25 }
+artist.delete("drake")
+puts artist
